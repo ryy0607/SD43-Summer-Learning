@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="styles.css">
+<title>SD43 2023 Summer Learning</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+
+<header>
+  <h2><u>2023 Summer Learning</u></h2>
+</header>
+
+<section>
+  <nav>
+  
+<img src="https://ce43.augusoft.net/Customers/CE43/images/Summer%20Learning%20images/Summer%20Logo.png" style="width:400px;height:400px;">
+
+<br> 
+<br>
+<br>
+
+<a href="https://ce43.augusoft.net/info/landing/summer-learning">Click here to sign up now</a>
+
+<br> 
+<br> 
+<br> 
+<p> Sign ups are due => 
+
+<b> June 25th 2023!!</b> </p>
+
+  </nav>
+  
+  <article>
+    <h2>LATEST COURSES ADDED</h2>
+    
+   <ul>
+  <li><b>FAST-TRACK CLE 10</b> REQUIRES FOR YOU TO GRADUATE => <b>Monday/Wednesday</b> OR <b>Tuesday/Thursday</b></li>
+  <li><b>IB MATH 10 </b> INVOLVES ALL THE UNITS FOR <b>NEXT YEAR</b> => <b>All days except <b>Friday, Saturday, Sunday</b></li>
+  <li><b>IB SCIENCE 10</b>INVOLVES FUN EXPERIEMENTS</li> => <b>All days except <b>Friday, Saturday, Sunday</b></li>
+</ul>
+
+<h2> IN OTHER NEWS: </h2>
+
+  <li>1 Month left of school:<b> Summer Learning starting soon!</b></li>
+  <li>The <b>Classes</b>: Start at July 5th!</li>
+  <li>3 Days No Summer School due to Pro-D and Holidays <b>YAY!!</b></li>
+  
+<br>
+
+<h2> School Locations </h2>
+
+  <li><b>Glen Eagle</b> Secondary School</li>
+  <li> <b>Dr. Charles Best</b> Secondary School </li>
+  <br>
+  <br>
+  <li> Notes! <b>These locations are only for secondary learnings!</b>
+  
+  
+</ol>
+
+  </article>
+</section>
+
+
+<footer>
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color:skyblue;
+}
+
+.navbar a {
+  float: left;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  padding: 25px 188px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: green;
+
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="html.html"><b>Home</b></a>
+  <a href="2html.html"><b>Fast-Track CLE 10</b></a>
+  <a href="3html.html"><b>IB Math 10</b></a>
+  <a href="4html.html"><b>IB Science 10</b></a>
+   
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+     
+    </div>
+
+</footer>
+
+</body>
+</html>
+

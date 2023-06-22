@@ -1,0 +1,66 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: skyblue;
+  padding: 30px;
+  text-align: center;
+  font-size: 40px;
+  color: darkblue;
+  border: 2px solid black;
+}
+
+
+nav {
+  float: left;
+  width: 30%;
+  height: 600psx; 
+  background:lightblue;
+  padding: 20px;
+  font-size: 22px;
+  border: 2px solid black;
+  
+}
+
+=
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: lightyellow;
+  height: 650px;
+  font-size: 22px;
+  border: 3px solid black;
+
+}
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+  background-color: lightgreen;
+  padding: 10px;
+  color: darkblue;
+  height: 100px;
+  font-size; 25px;
+  border: 2px solid black;
+  
+
+
+

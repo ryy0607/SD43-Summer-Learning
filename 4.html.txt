@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="4styles.css">
+<title>IB Sicence 10</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="header">
+  <h2><u>IB Science 10</u> Summer Learning</h2>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#ebe8fc;" > <ul>
+
+<li><b>DNA</b> structure and function</li>
+
+<br>
+<br>
+
+<li>Patterns of <b>inheritance</b></li>
+
+<br>
+<br>
+
+<li>Mechanisms for the diversity of life: <b>mutation and its impact on evolution</b></li>
+
+<br>
+<br>
+
+<li><b>Natural</b> selection and <b>artificial</b> selection</li>
+
+<br>
+<br>
+
+<li>Applied <b>genetics</b> and <b>ethical</b> considerations</li>
+
+<br>
+<br>
+
+<li><b>Rearrangement of atoms</b> in chemical reactions</li>
+
+<br>
+<br>
+
+<li><b>Acid-base</b> chemistry</li>
+
+<br>
+<br>
+
+<li><b>Law of conservation</b> of mass</li>
+
+<br>
+<br>
+
+<li><b>Energy change</b> during chemical reactions</li>
+
+</ul> </div>
+
+  <div class="column" style="background-color:#ebe8fc;">
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<img src="https://www.canadaeschool.ca/wp-content/uploads/2013/08/SNC2D.jpg" alt="Science" style="width:550px;height:600px;">
+
+</body>
+
+  </div>
+
+  <div class="column" style="background-color:#ebe8fc;"> <ul>
+
+<li><b>Practical applications and implications of chemical processes</b>, including First Peoples knowledge</li>
+
+<br>
+<br>
+
+<li><b>Nuclear energy and radiation</b></li>
+
+<br>
+<br>
+
+<li>Law of <b>conservation of energy</b></li>
+
+<br>
+<br>
+
+<li>Potential and <b>kinetic energy</b></li>
+
+<br>
+<br>
+
+<li><b>Transformation</b> of energy</li>
+
+<br>
+<br>
+
+<li><b>Local</b> and <b>global impacts</b> of energy transformations from technologies</li>
+
+<br>
+<br>
+
+<li><b>Astronomical data</b> and collection methods</li>
+
+</ul> </div>
+
+</div>
+
+<div class="footer">
+
+<footer>
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color:skyblue;
+}
+
+.navbar a {
+  float: left;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  padding: 25px 188px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: green;
+
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="html.html"><b>Home</b></a>
+  <a href="2html.html"><b>Fast-Track CLE 10</b></a>
+  <a href="3html.html"><b>IB Math 10</b></a>
+  <a href="4html.html"><b>IB Science 10</b></a>
+   
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+     
+    </div>
+
+</footer>
+</div>
+
+</body>
+</html>
